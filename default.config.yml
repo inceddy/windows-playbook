@@ -48,6 +48,8 @@ choco_installed_packages:
   - docker-desktop
   - lens
   - postman
+  - dropbox
+  - sql-server-management-studio
   
 
 install_winget_packages: true
